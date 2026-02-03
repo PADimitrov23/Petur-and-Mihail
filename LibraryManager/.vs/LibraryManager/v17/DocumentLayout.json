@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\",
+  "WorkspaceRootPath": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF06AE44-1DDA-4788-84CC-B5185C9CCC6F}|LibraryManager\\LibraryManager.vcxproj|C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\LibraryManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF06AE44-1DDA-4788-84CC-B5185C9CCC6F}|LibraryManager\\LibraryManager.vcxproj|solutionrelative:LibraryManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\BookLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|solutionrelative:BookLibrary\\BookLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\BookLibrary.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\BookLibrary.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|solutionrelative:BookLibrary\\BookLibrary.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\BookLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{62A49758-0BDF-4405-BD5B-2B83CD906F91}|BookLibrary\\BookLibrary.vcxproj|solutionrelative:BookLibrary\\BookLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF06AE44-1DDA-4788-84CC-B5185C9CCC6F}|LibraryManager\\LibraryManager.vcxproj|C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\LibraryManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF06AE44-1DDA-4788-84CC-B5185C9CCC6F}|LibraryManager\\LibraryManager.vcxproj|solutionrelative:LibraryManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,47 +25,47 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "bookLibrary.hpp",
-              "DocumentMoniker": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\bookLibrary.hpp",
+              "DocumentMoniker": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\bookLibrary.hpp",
               "RelativeDocumentMoniker": "BookLibrary\\bookLibrary.hpp",
-              "ToolTip": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\bookLibrary.hpp",
+              "ToolTip": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\bookLibrary.hpp",
               "RelativeToolTip": "BookLibrary\\bookLibrary.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-03T10:56:19.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "bookLibrary.cpp",
-              "DocumentMoniker": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\bookLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\bookLibrary.cpp",
               "RelativeDocumentMoniker": "BookLibrary\\bookLibrary.cpp",
-              "ToolTip": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\BookLibrary\\bookLibrary.cpp",
+              "ToolTip": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\BookLibrary\\bookLibrary.cpp",
               "RelativeToolTip": "BookLibrary\\bookLibrary.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T10:55:28.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\LibraryManager\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\LibraryManager\\main.cpp",
               "RelativeDocumentMoniker": "LibraryManager\\main.cpp",
-              "ToolTip": "C:\\Users\\PADimitrov23\\source\\repos\\LibraryManager\\LibraryManager\\main.cpp",
+              "ToolTip": "C:\\Users\\MYAKaranikolov23\\source\\repos\\Petur-and-Mihail\\LibraryManager\\LibraryManager\\main.cpp",
               "RelativeToolTip": "LibraryManager\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T10:53:54.598Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
