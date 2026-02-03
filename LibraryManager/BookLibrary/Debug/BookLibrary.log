@@ -1,0 +1,6 @@
+﻿  bookLibrary.cpp
+C:\Users\PADimitrov23\source\repos\Petur-and-Mihail\LibraryManager\BookLibrary\bookLibrary.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PADimitrov23\source\repos\Petur-and-Mihail\LibraryManager\BookLibrary\bookLibrary.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PADimitrov23\source\repos\Petur-and-Mihail\LibraryManager\BookLibrary\bookLibrary.cpp(50,32): warning C4244: '+=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\PADimitrov23\source\repos\Petur-and-Mihail\LibraryManager\BookLibrary\bookLibrary.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+  BookLibrary.vcxproj -> C:\Users\PADimitrov23\source\repos\Petur-and-Mihail\LibraryManager\Debug\bookLibrary.lib
